@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginSenhaFragments</string>
+    <string name="text_enter">ENTRAR</string>
+    <string name="entrar">Entrar</string>
+    <string name="caixa_login">Digite seu email :</string>
+    <string name="senha">Digite sua senha :</string>
+    <string name="lembrar_login_senha">Lembrar-me</string>
+    <string name="saudacoes">Seja bem vindo!</string>
+</resources>
